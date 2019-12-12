@@ -1,0 +1,6 @@
+Build with make
+liburing and libaio must be installed
+
+Sample data can be generated with ./gen
+
+To run benchmarks, generate sample data and run ./benchmark.sh

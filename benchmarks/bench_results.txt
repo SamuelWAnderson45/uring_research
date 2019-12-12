@@ -1,0 +1,87 @@
+Warming disk cache
+
+real	0m45.328s
+user	0m0.083s
+sys	0m3.246s
+Testing io_uring (buffered)
+
+real	0m0.900s
+user	0m0.009s
+sys	0m0.878s
+
+real	0m0.712s
+user	0m0.005s
+sys	0m0.691s
+
+real	0m0.708s
+user	0m0.008s
+sys	0m0.691s
+
+real	0m0.712s
+user	0m0.004s
+sys	0m0.693s
+
+real	0m0.712s
+user	0m0.013s
+sys	0m0.684s
+
+real	0m0.732s
+user	0m0.014s
+sys	0m0.702s
+
+real	0m0.716s
+user	0m0.013s
+sys	0m0.690s
+
+real	0m0.736s
+user	0m0.017s
+sys	0m0.701s
+
+real	0m0.748s
+user	0m0.013s
+sys	0m0.725s
+
+real	0m0.716s
+user	0m0.015s
+sys	0m0.686s
+Testing aio (direct)
+
+real	0m45.339s
+user	0m0.018s
+sys	0m1.402s
+
+real	0m45.273s
+user	0m0.025s
+sys	0m1.277s
+
+real	0m45.328s
+user	0m0.054s
+sys	0m1.860s
+
+real	0m45.372s
+user	0m0.022s
+sys	0m1.272s
+
+real	0m45.330s
+user	0m0.029s
+sys	0m1.866s
+
+real	0m45.266s
+user	0m0.030s
+sys	0m1.355s
+
+real	0m45.324s
+user	0m0.041s
+sys	0m1.526s
+
+real	0m45.340s
+user	0m0.029s
+sys	0m1.465s
+
+real	0m45.324s
+user	0m0.039s
+sys	0m1.779s
+
+real	0m45.268s
+user	0m0.034s
+sys	0m1.271s
